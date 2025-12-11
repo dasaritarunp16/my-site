@@ -6,9 +6,9 @@ export default function Home() {
   ];
 
   const events = [
-    { id: 1, day: "20", month: "Oct", title: "Guest Speaker (Head of Data Science @ Kimberly Clark)" },
-    { id: 2, day: "26", month: "Oct", title: "Horror Hacks Submission" },
-    { id: 3, day: "5", month: "Nov", title: "NTHS Club Meeting" },
+    { id: 1, day: "28", month: "Jan", title: "NTHS General Meeting" },
+    { id: 2, day: "4", month: "Mar", title: "NTHS General Meeting" },
+    { id: 3, day: "22", month: "Apr", title: "NTHS General Meeting" },
   ];
 
   return (
